@@ -1,7 +1,7 @@
 # fall-23-km
 👋 Hi, this is Kevvin Metz.
 
-<a href="https://kmetz33.github.io/fall-23-km/super_blue_moon_1.html">super_blue_moon.html</a>
+<a href="https://kmetz33.github.io/fall-23-km/super_blue_moon.html">super_blue_moon.html</a>
   - Lab Engagement #2: Creating and HTML Document
 
 <a href="https://kmetz33.github.io/fall-23-km/super_blue_moon_2.html">super_blue_moon_2.html</a>
